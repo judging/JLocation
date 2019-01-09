@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JLocation</string>
+
+    <string name="fix_location">开始定位</string>
+    <string name="fix_location_hint">点击 \'开始定位\' 按钮开始定位</string>
+    <string name="reverse_geo_code_failed">抱歉，未能找到结果</string>
+    <string name="hide_location_title">不显示位置</string>
+    <string name="hide_location_summary">其他人无法看到您当前的位置</string>
+    <string name="current_location">[当前位置] <xliff:g id="cur_location">%1$s</xliff:g></string>
+
+    <string name="finish_location">确定</string>
+    <string name="location_page_title">当前位置</string>
+
+    <string name="fix_location_result">当前位置:\n\n
+        名称: <xliff:g id="name">%1$s</xliff:g> \n
+        省份: <xliff:g id="province">%2$s</xliff:g> \n
+        城市: <xliff:g id="city">%3$s</xliff:g> \n
+        地址: <xliff:g id="address">%4$s</xliff:g> \n
+        纬度: <xliff:g id="lat">%5$s</xliff:g> \n
+        经度: <xliff:g id="lng">%6$s</xliff:g> \n
+    </string>
+
+</resources>
